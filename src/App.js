@@ -1,7 +1,7 @@
 import FooterComponents from "./components/Footer";
 import NavbarComponents from "./components/Navbar";
 import First from "./components/Props";
-import PropsComponents from "./components/Props";
+// import PropsComponents from "./components/Props";
 
 
 function App() {
